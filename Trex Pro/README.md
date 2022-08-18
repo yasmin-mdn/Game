@@ -1,5 +1,5 @@
 ### T-Rex Pro
-
+![T-Rex Pro](https://github.com/yasmin-mdn/Game/blob/main/Trex%20Pro/Trex.png)
 ## What we had to do?
 We had to develop this game for our game jam.<br />
 Our game jam’s theme was “Classic Game Remix.” We had to choose a classic game we liked and add some features/mechanics. <br />
