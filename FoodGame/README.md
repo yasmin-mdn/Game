@@ -1,29 +1,11 @@
 # Prototype 2 - Food Game
 
-## TODO
+![Food Game](https://github.com/yasmin-mdn/Game/blob/main/FoodGame/FoodGame.png)
+## What we had to do?
+We had to develop this prototype for the game design course as a mini project.<br />
+You must collect food; burgers will increase your heart count, and avoid eating fish bones!<br />
+## How to play?
+Download foodgameprj.exe from this path "FoodGame/HW/Export".<br />
+Run the file and enjoy playing.<br />
+You can move the plate using the A and D keys. <br />
 
-(2 sessions)
-
-- [x] Setup the project
-- [x] Make and spawn a prefab
-- [x] Spawn prefabs automatically based on a timer
-- [x] Have prefab settings inside scriptable object (the score count, drop force) (prefab -> script -> scriptable object)
-- [x] Make the player move the plate so he/she can collect the food
-- [x] Increase score on collect based on the food's score stored in scriptable object
-- [x] Spawn prefabs automatically based on the timer and player score
-- [x] Combo code structure
-- [ ] Destroy effect (will be covered on next prototypes)
-
-## Teaching Objectives / Concepts
-
-- Prefabs
-- ScriptableObject
-
-## HW
-
-- [ ] Time freezer combo
-- [ ] Heart combo
-- [ ] 3 new food prefabs
-- [ ] Display score and hearts on UI
-- [ ] Implementing lose condition
-- [ ] Balancing the game (timer value based on score, movement speed, food weights, food scores, etc)
