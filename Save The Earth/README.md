@@ -11,6 +11,6 @@ The planet has a certain amount of life, which is reduced by the impact of meteo
 * Download SaveTheEarth.exe from this path "Save The Earth/Build-Final".<br />
 * Run the file and enjoy playing.<br />
 detailed instruction on how to play the game is available in the "How To Play" section of the game menu. you can also customize the game using the "Option" part. <br />
-![menu](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/menu.png)
-![How To Play](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/How%20to%20play.png)
-![options](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/options.png)
+![menu](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/menu.png)<br />
+![How To Play](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/How%20to%20play.png)<br />
+![options](https://github.com/yasmin-mdn/Game/blob/main/Save%20The%20Earth/options.png)<br />
